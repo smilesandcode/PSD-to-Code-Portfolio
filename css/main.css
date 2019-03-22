@@ -117,18 +117,24 @@ h1, h2, h3 {
     text-align: center;
     display: flex;
     justify-content: center;
+    padding-bottom: 30px;
+   
 }
+
+/* #portfolio-heading h2 {
+    margin-bottom: 20px;
+} */
 
 .thumbnails {
     display: flex;
-    justify-content: center;
+    justify-content: space-around;
     text-align: center;
     font-size: 24px;
 }
 
-#portfolio-paragraph {
-    width: 75%;
-    text-align: center;
+#first-portfolio-img {
+    /* margin: 0; */
+    width: 20%;
 }
 
 /* footer styles */
